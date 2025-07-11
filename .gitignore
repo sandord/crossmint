@@ -1,0 +1,11 @@
+*.PRG
+/*.o
+
+build
+release
+output
+
+.vscode/c_cpp_properties.json
+*Zone.Identifier
+.vscode/settings.json
+src/atari/mapfile
